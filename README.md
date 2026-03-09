@@ -6,6 +6,6 @@
 ## Mô tả
 bla bla
 
-#kết quả chạy [alt text](ảnh1.jpg)
-              [alt text](ảnh2.jpg)
-              [alt text](ảnh3.jpg)
+#kết quả chạy [alt text](./ảnh1.jpg)
+              [alt text](./ảnh2.jpg)
+              [alt text](./ảnh3.jpg)
