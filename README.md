@@ -6,6 +6,6 @@
 ## Mô tả
 bla bla
 
-#kết quả chạy:Khi chưa đủ số[alt text](./ảnh1.jpg)
-              Khi đủ 10 số và đúng định dạng[alt text](./ảnh2.jpg)
-              Khi quá nhiều số+không đúng định dạng[alt text](./ảnh3.jpg)
+#kết quả chạy:Nhập sdt[alt text](./ảnh1.jpg)
+              Vào trang chủ-homescreen[alt text](./ảnh2.jpg)
+             
